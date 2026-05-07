@@ -17,7 +17,7 @@
 
 ---
 
-## Live Demos
+## 🚀 Live Demos
 - [Tetris](https://stugit.github.io/tetris/)
 - [Sokoban](https://stugit.github.io/sokoban/)
 
