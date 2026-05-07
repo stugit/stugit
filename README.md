@@ -17,10 +17,15 @@
 
 ---
 
-## 🚀 Live Demos
-- [![Tetris](https://img.shields.io/badge/demo-online-green.svg?style=for-the-badge)](https://stugit.github.io/tetris/)
-- [Sokoban](https://stugit.github.io/sokoban/)
+## 🕹️ Play My Games
+Experience these classic arcade recreations directly in your browser!
 
+| Game | Preview | Play Link |
+| :--- | :--- | :--- |
+| **Tetris Retro** | 🧱 | [**Play Now 🚀**](https://stugit.github.io/tetris/) |
+| **Sokoban Logic** | 📦 | [**Start Pushing 📦**](https://stugit.github.io/sokoban/) |
+
+---
 
 ## 📊 My GitHub Stats
 These stats update automatically based on your public contributions.
