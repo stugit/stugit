@@ -1,8 +1,8 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Anon! 👋
 
 ## 💫 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Technology/Language]**
+- 🔭 I’m currently working on **Top Secret**
+- 🌱 I’m currently learning **AI**
 - 💬 Ask me about **[Topics you're expert in]**
 - 📫 How to reach me: **[LinkedIn/Email/Twitter]**
 
