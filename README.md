@@ -22,10 +22,10 @@ These stats update automatically based on your public contributions.
 
 | **Overall Stats** | **Most Used Languages** |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=stugit&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stugit&layout=compact&theme=radical) |
 
 ### 🔥 Contribution Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=stugit&theme=radical)
 
 ---
 
