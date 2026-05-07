@@ -22,8 +22,8 @@ Experience these classic arcade recreations directly in your browser!
 
 | Game | Preview | Play Link |
 | :--- | :--- | :--- |
-| **Tetris Retro** | 🧱 | [**Play Now 🚀**](https://stugit.github.io/tetris/) |
-| **Sokoban Logic** | 📦 | [**Start Pushing 📦**](https://stugit.github.io/sokoban/) |
+| **Tetris Retro** | ![Tetris Preview](assets/tetris-preview.gif) | [**Play Now 🚀**](https://stugit.github.io/tetris/) |
+| **Sokoban Logic** | ![Sokoban Preview](assets/sokoban-preview.gif) | [**Start Pushing 📦**](https://stugit.github.io/sokoban/) |
 
 ---
 
