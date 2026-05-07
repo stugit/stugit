@@ -3,7 +3,7 @@
 ## 💫 About Me
 - 🔭 I’m currently working on **Top Secret**
 - 🌱 I’m currently learning **AI**
-- 💬 Ask me about **[Topics you're expert in]**
+- 💬 Ask me about **Something**
 - 📫 How to reach me: **[LinkedIn/Email/Twitter]**
 
 ---
