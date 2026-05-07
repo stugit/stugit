@@ -18,7 +18,7 @@
 ---
 
 ## 🚀 Live Demos
-- [Tetris](https://stugit.github.io/tetris/)
+- [![Tetris](https://img.shields.io/badge/demo-online-green.svg?style=for-the-badge)](https://stugit.github.io/tetris/)
 - [Sokoban](https://stugit.github.io/sokoban/)
 
 
