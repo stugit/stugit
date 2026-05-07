@@ -18,8 +18,8 @@
 ---
 
 ## Live Demos
-[Tetris](https://stugit.github.io/tetris/)
-[Sokoban](https://stugit.github.io/sokoban/)
+- [Tetris](https://stugit.github.io/tetris/)
+- [Sokoban](https://stugit.github.io/sokoban/)
 
 
 ## 📊 My GitHub Stats
