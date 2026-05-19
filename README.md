@@ -19,6 +19,7 @@
 - 🔭 &nbsp;Working on **something top secret** 🔒
 - 🌱 &nbsp;Currently deep in **AI & Machine Learning**
 - 🎮 &nbsp;I build retro **browser games**
+- 🌐 &nbsp;Check out my site: **[stugit.github.io](https://stugit.github.io/)**
 - 💬 &nbsp;Happy to chat about **full-stack, AI, or gaming**
 - ⚡ &nbsp;Fun fact: I turn ☕ into commits
 
