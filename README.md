@@ -1,45 +1,108 @@
-# Hi there, I'm ******! 👋
+<div align="center">
 
-## 💫 About Me
-- 🔭 I’m currently working on **Top Secret**
-- 🌱 I’m currently learning **AI**
-- 💬 Ask me about **Something**
-- 📫 How to reach me: **[LinkedIn/Email/Twitter]**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%20Explorer%20%7C%20Game%20Crafter&descAlignY=60&descSize=18&descColor=ffffffcc"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=640&lines=Working+on+something+%F0%9F%94%92+top+secret...;Exploring+AI+%F0%9F%A4%96+and+machine+learning;Crafting+browser+games+%F0%9F%95%B9%EF%B8%8F;Turning+coffee+%E2%98%95+into+code)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=stugit&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 💫 About Me
+
+- 🔭 &nbsp;Working on **something top secret** 🔒
+- 🌱 &nbsp;Currently deep in **AI & Machine Learning**
+- 🎮 &nbsp;I build retro **browser games**
+- 💬 &nbsp;Happy to chat about **full-stack, AI, or gaming**
+- ⚡ &nbsp;Fun fact: I turn ☕ into commits
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=stugit&theme=dracula&no-frame=true&margin-w=4&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=js,py,react,nodejs,docker,git,github,vscode&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=stugit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+<img width="49%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=stugit&theme=tokyonight&hide_border=true"/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stugit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stugit&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
 ## 🕹️ Play My Games
-Experience these classic arcade recreations directly in your browser!
 
-| Game | Preview | Play Link |
-| :--- | :--- | :--- |
-| **Tetris Retro** | ![Tetris Preview](assets/tetris-preview.png) | [**Play Now 🚀**](https://stugit.github.io/tetris/) |
-| **Sokoban Logic** | ![Sokoban Preview](assets/sokoban-preview.png) | [**Start Pushing 📦**](https://stugit.github.io/sokoban/) |
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+[![Tetris](assets/tetris-preview.png)](https://stugit.github.io/tetris/)
+
+### 🧱 Tetris Retro
+
+[![Play Now](https://img.shields.io/badge/PLAY%20NOW-764ba2?style=for-the-badge&logoColor=white)](https://stugit.github.io/tetris/)
+
+</td>
+<td align="center" width="50%">
+
+[![Sokoban](assets/sokoban-preview.png)](https://stugit.github.io/sokoban/)
+
+### 📦 Sokoban Logic
+
+[![Start Pushing](https://img.shields.io/badge/START%20PUSHING-667eea?style=for-the-badge&logoColor=white)](https://stugit.github.io/sokoban/)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📊 My GitHub Stats
-These stats update automatically based on your public contributions.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&animation=fadeIn"/>
 
-| **Overall Stats** | **Most Used Languages** |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=stugit&show_icons=true&theme=radical&cache_seconds=1800) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stugit&layout=compact&theme=radical&cache_seconds=1800) |
+*⭐ If you find any of my projects useful, a star goes a long way!*
 
-### 🔥 Contribution Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=stugit&theme=radical)
-
----
-
-## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR-LINKEDIN])
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR-TWITTER])
+</div>
